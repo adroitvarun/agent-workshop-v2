@@ -1,0 +1,22 @@
+{
+  "Monday": [
+    {"time": "09:00", "course": "Data Structures", "room": "B-204"},
+    {"time": "11:00", "course": "Probability and Statistics", "room": "A-101"}
+  ],
+  "Tuesday": [
+    {"time": "10:00", "course": "Operating Systems", "room": "B-110"},
+    {"time": "14:00", "course": "Data Structures Lab", "room": "CC-2"}
+  ],
+  "Wednesday": [
+    {"time": "09:00", "course": "Database Systems", "room": "A-305"}
+  ],
+  "Thursday": [
+    {"time": "11:00", "course": "Probability and Statistics", "room": "A-101"},
+    {"time": "15:00", "course": "Operating Systems", "room": "B-110"}
+  ],
+  "Friday": [
+    {"time": "10:00", "course": "Database Systems Lab", "room": "CC-1"}
+  ],
+  "Saturday": [],
+  "Sunday": []
+}
